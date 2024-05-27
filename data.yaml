@@ -1,0 +1,4 @@
+train: /path/to/dataset/images/train
+val: /path/to/dataset/images/val
+nc: 5  # number of classes
+names: ['red', 'yellow', 'green', 'red-yellow', 'yellow-green']
